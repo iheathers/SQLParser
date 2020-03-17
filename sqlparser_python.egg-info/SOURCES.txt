@@ -1,0 +1,11 @@
+README.rst
+setup.py
+sqlparser/__init__.py
+sqlparser/exceptions.py
+sqlparser/grammar.py
+sqlparser/lexer.py
+sqlparser_python.egg-info/PKG-INFO
+sqlparser_python.egg-info/SOURCES.txt
+sqlparser_python.egg-info/dependency_links.txt
+sqlparser_python.egg-info/requires.txt
+sqlparser_python.egg-info/top_level.txt
